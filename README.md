@@ -1,0 +1,3 @@
+- Typescript
+- JWT, Refresh Token
+- Express, Mongoose
